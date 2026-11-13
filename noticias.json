@@ -1,0 +1,30 @@
+{
+  "edicao": "2026-11-12",
+  "atualizado_em": "2026-11-12T09:00:00-03:00",
+  "destaque": {
+    "region": "br", "cat": "ambiente",
+    "title": "Desmatamento na Amazônia cai cerca de 42% e registra a menor taxa da série histórica",
+    "dek": "Entre agosto de 2025 e julho de 2026, a Amazônia perdeu 3.335 km² de floresta, contra 5.731 km² no período anterior, segundo dados do Inpe divulgados pelo governo federal.",
+    "src": "Portal Amazônia",
+    "url": "https://portalamazonia.com/meio-ambiente/queda-desmatamento-amazonia-inpe/",
+    "date": "2026-10-17"
+  },
+  "noticias": [
+    {"region": "br", "cat": "saude",
+     "title": "Casos e mortes por covid-19 seguem em queda no Brasil",
+     "dek": "Até 4 de novembro, as mortes por covid-19 somam 437, contra 1,4 mil no mesmo período de 2025 (queda de 69%). O Ministério da Saúde avalia o cenário como de baixo risco, mas acompanha alta de casos leves em 18 estados.",
+     "src": "Agência Gov", "url": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil", "date": "2026-11-10"},
+    {"region": "br", "cat": "saude",
+     "title": "Telessaúde do SUS passa de 13 para 63 núcleos e chega aos 27 estados",
+     "dek": "A rede de atendimento a distância cresceu desde 2022 e soma mais de 12 milhões de procedimentos entre janeiro de 2025 e outubro de 2026, com R$ 248,96 milhões em recursos e incentivos em 2026.",
+     "src": "Agência Gov", "url": "https://agenciagov.ebc.com.br/noticias/202610/telessaude-avanca-no-sus-chega-a-63-nucleos-e-ultrapassa-r-248-9-milhoes-em-recursos-e-incentivos", "date": "2026-10-27"},
+    {"region": "mundo", "cat": "biodiversidade",
+     "title": "Países Baixos prometem US$ 500 milhões ao fundo de florestas tropicais lançado pelo Brasil",
+     "dek": "O aporte, em 10 anos, vai para o Tropical Forest Forever Facility, criado na COP30. O fundo busca proteger de 800 a 900 milhões de hectares de floresta tropical e já soma cerca de US$ 7,8 bilhões em promessas.",
+     "src": "Good Good Good (via Mongabay)", "url": "https://www.goodgoodgood.co/articles/netherlands-pledges-tropical-forests", "date": "2026-10-28"},
+    {"region": "mundo", "cat": "saude",
+     "title": "Barbados elimina a transmissão de HIV de mãe para filho, reconhece a OMS",
+     "dek": "Entre 2022 e 2024 não houve novas infecções de bebês nascidos no país; 98% das gestantes foram testadas e 98% das que vivem com HIV receberam tratamento. O Brasil recebeu o mesmo reconhecimento em 2025.",
+     "src": "OPAS/OMS", "url": "https://www.paho.org/en/news/30-10-2026-barbados-eliminates-mother-child-transmission-hiv", "date": "2026-10-30"}
+  ]
+}
