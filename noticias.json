@@ -1,44 +1,70 @@
 {
-  "edicao": "2026-11-14",
-  "atualizado_em": "2026-11-14T09:00:00-03:00",
-  "destaque": {
-    "region": "mundo", "cat": "saude",
-    "title": "Barbados é certificada pela OMS por eliminar a transmissão do HIV de mãe para filho",
-    "dek": "Entre 2022 e 2024 nenhum bebê nascido no país foi infectado pelo HIV durante a gestação ou o parto. Nesse período, 98% das gestantes fizeram pré-natal, 98% foram testadas e 98% das que vivem com HIV receberam tratamento. Ressalva: a OMS lembra que manter a certificação exige investimento contínuo e ampliação dos testes de HIV e sífilis.",
-    "src": "Organização Mundial da Saúde (OMS)",
-    "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
-    "date": "2026-10-30"
+ "edicao": "2026-11-15",
+ "atualizado_em": "2026-11-15T18:40:00-03:00",
+ "aviso": "Hoje, domingo, só 3 notícias novas passaram pela conferência na fonte. As outras 4 saíram nos últimos dias e foram mantidas; cada card mostra a data de publicação original.",
+ "destaque": {
+  "region": "br",
+  "cat": "ambiente",
+  "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+  "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
+  "src": "Agência Gov",
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+  "date": "2026-11-11"
+ },
+ "noticias": [
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Aldeia Mapuera, no Pará, ganha unidade de saúde indígena construída com tecnologia sustentável",
+   "dek": "Inaugurada em 7 de novembro em Oriximiná (PA), a unidade de 262,94 m² atende mais de 650 indígenas de sete povos, com consultórios, sala de vacina e laboratório. Em menos de uma semana foram 47 atendimentos e 16 crianças vacinadas; os resultados ainda são muito iniciais.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/unidade-basica-de-saude-com-tecnologia-sustentavel-beneficia-indigenas-no-para",
+   "date": "2026-11-13"
   },
-  "noticias": [
-    {"region": "br", "cat": "ambiente",
-     "title": "Desmatamento na Amazônia é o menor da série histórica do Inpe, iniciada em 1988",
-     "dek": "Segundo o Prodes, a Amazônia perdeu 3.335 km² de floresta no último período de 12 meses, o menor valor desde 1988, com queda de 71,2% em quatro anos. O Cerrado registrou 5.517 km², o menor da sua série (desde 2001). Ressalva: o Cerrado ainda concentra grande parte do desmatamento do país, sobretudo no Matopiba, e Roraima teve leve alta.",
-     "src": "Diario de Pernambuco (via Estadão Conteúdo)",
-     "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726868-inpe-desmatamento-na-amazonia-e-no-cerrado-atinge-menor-nivel-da-serie-historica.html",
-     "date": "2026-10-16"},
-    {"region": "br", "cat": "saude",
-     "title": "SUS passa de 1 milhão de procedimentos por ano no tratamento do câncer de próstata",
-     "dek": "Quimioterapia, radioterapia e cirurgias contra o câncer de próstata subiram de 781,5 mil em 2022 para mais de 1 milhão em 2025, alta de 32,6%. A radioterapia cresceu 44,9%. Ressalva: o dado mostra mais atendimentos, não necessariamente melhores resultados clínicos, e vem do próprio Ministério da Saúde, na campanha Novembro Azul.",
-     "src": "Agência Gov (via Ministério da Saúde)",
-     "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
-     "date": "2026-11-12"},
-    {"region": "mundo", "cat": "saude",
-     "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
-     "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
-     "src": "Organização Mundial da Saúde (OMS)",
-     "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
-     "date": "2026-11-12"},
-    {"region": "mundo", "cat": "biodiversidade",
-     "title": "Países Baixos preveem até US$ 500 milhões para o fundo de florestas tropicais lançado pelo Brasil",
-     "dek": "O governo holandês quer destinar até US$ 500 milhões em dez anos ao Fundo Florestas Tropicais para Sempre (TFFF), que pagaria cerca de US$ 4 por hectare ao ano para manter florestas em pé, em 800 a 900 milhões de hectares. Ressalva: o valor é um teto e ainda depende de condições, com a decisão final prevista para meados de 2027.",
-     "src": "Governo dos Países Baixos (Rijksoverheid)",
-     "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/26/nederland-investeert-fors-in-bescherming-tropische-bossen",
-     "date": "2026-10-26"},
-    {"region": "mundo", "cat": "ambiente",
-     "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
-     "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
-     "src": "Agência Gov (via COP31)",
-     "url": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
-     "date": "2026-11-12"}
-  ]
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Ministério da Saúde facilita o pedido de teleatendimento em saúde mental no Meu SUS Digital",
+   "dek": "Há menos etapas para pedir atendimento nos programas Acolhe Mais (mulheres em vulnerabilidade) e Não Aposte Sua Saúde (problemas com apostas): ciclo inicial de até 10 sessões por videochamada, sigilosas. O texto não informa prazos de espera nem número de vagas.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-facilita-acesso-a-teleatendimento-de-saude-mental-no-meu-sus-digital",
+   "date": "2026-11-13"
+  },
+  {
+   "region": "mundo",
+   "cat": "saude",
+   "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
+   "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
+   "src": "Organização Mundial da Saúde (OMS)",
+   "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+   "date": "2026-11-12"
+  },
+  {
+   "region": "mundo",
+   "cat": "ambiente",
+   "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
+   "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
+   "src": "Agência Gov (via COP31)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
+   "date": "2026-11-12"
+  },
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "SUS passa de 1 milhão de procedimentos por ano no tratamento do câncer de próstata",
+   "dek": "Quimioterapia, radioterapia e cirurgias contra o câncer de próstata subiram de 781,5 mil em 2022 para mais de 1 milhão em 2025, alta de 32,6%. A radioterapia cresceu 44,9%. Ressalva: o dado mostra mais atendimentos, não necessariamente melhores resultados clínicos, e vem do próprio Ministério da Saúde, na campanha Novembro Azul.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
+   "date": "2026-11-12"
+  },
+  {
+   "region": "mundo",
+   "cat": "saude",
+   "title": "Barbados é certificada pela OMS por eliminar a transmissão do HIV de mãe para filho",
+   "dek": "Entre 2022 e 2024 nenhum bebê nascido no país foi infectado pelo HIV durante a gestação ou o parto. Nesse período, 98% das gestantes fizeram pré-natal, 98% foram testadas e 98% das que vivem com HIV receberam tratamento. Ressalva: a OMS lembra que manter a certificação exige investimento contínuo e ampliação dos testes de HIV e sífilis.",
+   "src": "Organização Mundial da Saúde (OMS)",
+   "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
+   "date": "2026-10-30"
+  }
+ ]
 }

@@ -395,6 +395,7 @@
           <h2>A notícia que abre a edição</h2>
         </div>
       </div>
+      <div class="notice" id="avisoEdicao" hidden style="margin:0 0 18px;border-color:#e0b24a;background:#fff4d6;"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16h.01"/></svg><span id="avisoTexto"></span></div>
       <div class="featured">
         <div class="featured-visual">
           <svg viewBox="0 0 500 400" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ilustração de amanhecer sobre colinas verdes">
@@ -739,7 +740,7 @@
 
   /* ---------- edição do dia (noticias.json) ---------- */
   function renderFeatured(d){
-    var el = document.getElementById('featuredBody'); if(!d){ el.innerHTML=''; return; }
+    var el = document.getElementById('featuredBody'); var box = el.closest('.featured'); if(!d){ el.innerHTML=''; if(box) box.style.display='none'; return; } if(box) box.style.display='';
     var c = catById[d.cat] || {label:''};
     el.innerHTML =
       '<span class="eyebrow">'+escH(c.label)+' · '+(d.region==='br'?'Brasil':'Mundo')+'</span>'+
@@ -757,6 +758,7 @@
         document.getElementById('todayLabel').textContent = 'Edição de ' + fmt;
         document.querySelectorAll('.todaySmall').forEach(function(el){ el.textContent = fmt; });
       }catch(e){}
+      var av=document.getElementById('avisoEdicao'); if(data.aviso){ document.getElementById('avisoTexto').textContent=data.aviso; av.hidden=false; } else { av.hidden=true; }
       buildTiles(); renderFeatured(data.destaque); render(); buildThermo();
     }).catch(function(){
       document.getElementById('featuredBody').innerHTML = '<p class="dek">Não conseguimos carregar a edição de hoje agora. Tente de novo em instantes.</p>';

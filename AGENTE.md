@@ -7,12 +7,13 @@ Objetivo: toda manhã, atualizar `noticias.json` com a edição do dia (boas not
 2. **Só notícias recentes**: de preferência dos últimos 7 dias; máximo 30 dias (o validador reprova mais que isso).
 3. **Positivas e coletivas**: progresso que beneficia muitas pessoas, ambiente, ciência, saúde, cooperação. Evite política partidária, mercado financeiro puro, celebridades e qualquer coisa sensacionalista. Se uma notícia tem ressalva importante, escreva a ressalva no resumo.
 4. **Não invente nada.** Se não conseguir verificar, não inclua.
-5. **Mínimo de 5 notícias verificadas** (1 destaque + 4 outras). Meta: 8 a 10, com mistura de Brasil e Mundo e de frentes diferentes.
-6. Se não alcançar o mínimo, **não publique**: mantenha o arquivo anterior e avise o dono (JY) com o motivo.
+5. **Meta: 8 a 10 notícias verificadas**, com mistura de Brasil e Mundo e de frentes diferentes.
+6. **Sempre publique a edição do dia, mesmo com poucas notícias.** Se houver menos de 5 notícias verificadas, preencha o campo `"aviso"` (até 300 caracteres) com um texto honesto, por exemplo: "Hoje encontramos poucas notícias que conseguimos conferir na fonte. Voltamos amanhã com uma edição completa." Pode reaproveitar as melhores notícias da edição anterior (ainda dentro de 30 dias), sem alterar a `date` delas, que continua sendo a da publicação original. Sem nenhuma notícia, deixe `destaque` fora e `noticias` vazia e use só o aviso. Nunca complete a edição com notícia não verificada.
 
 ## Formato de `noticias.json`
 ```
 { "edicao": "AAAA-MM-DD", "atualizado_em": "ISO com fuso -03:00",
+  "aviso": "(opcional; obrigatório se houver menos de 5 notícias)",
   "destaque": {region, cat, title, dek, src, url, date},
   "noticias": [ {region, cat, title, dek, src, url, date}, ... ] }
 ```
@@ -29,4 +30,4 @@ Objetivo: toda manhã, atualizar `noticias.json` com a edição do dia (boas not
 4. Rodar `python3 validar_noticias.py`. Só continuar se imprimir APROVADO.
 5. Atualizar `lastmod` em `sitemap.xml` para a data da edição.
 6. Commit na `main` com a mensagem `Edição AAAA-MM-DD` e push.
-7. Avisar o dono com um resumo curto: quantas notícias, qual o destaque, e qualquer dúvida de verificação.
+7. Avisar o dono com um resumo curto: quantas notícias, qual o destaque, se foi preciso usar aviso, e qualquer dúvida de verificação.

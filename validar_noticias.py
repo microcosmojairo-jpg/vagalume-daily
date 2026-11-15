@@ -13,8 +13,9 @@ def main(path='noticias.json'):
     hoje=dt.date.today()
     if abs((hoje-ed).days)>1: erros.append(f'edição {ed} não é de hoje ({hoje})')
     itens=([('destaque',d.get('destaque'))] if d.get('destaque') else [])+[(f'noticia {i+1}',n) for i,n in enumerate(d.get('noticias',[]))]
-    if not d.get('destaque'): erros.append('falta o destaque')
-    if len(itens)<5: erros.append(f'só {len(itens)} notícias (mínimo 5)')
+    aviso=str(d.get('aviso','')).strip()
+    if len(itens)<5 and not aviso: erros.append(f'só {len(itens)} notícias verificadas: é obrigatório o campo "aviso" explicando')
+    if len(aviso)>300: erros.append('aviso longo demais (máx 300)')
     urls=set(); titulos=set()
     for nome,n in itens:
         for c in ('region','cat','title','dek','src','url','date'):
