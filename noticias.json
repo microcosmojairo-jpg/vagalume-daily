@@ -1,17 +1,35 @@
 {
- "edicao": "2026-11-15",
- "atualizado_em": "2026-11-15T18:40:00-03:00",
- "aviso": "Hoje, domingo, só 3 notícias novas passaram pela conferência na fonte. As outras 4 saíram nos últimos dias e foram mantidas; cada card mostra a data de publicação original.",
+ "edicao": "2026-11-16",
+ "atualizado_em": "2026-11-16T06:30:00-03:00",
+ "aviso": "Hoje, segunda-feira, só 2 notícias novas passaram pela conferência na fonte. As outras 7 saíram nos últimos dias e foram mantidas; cada card mostra a data de publicação original.",
  "destaque": {
   "region": "br",
-  "cat": "ambiente",
-  "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
-  "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
-  "src": "Agência Gov",
-  "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
-  "date": "2026-11-11"
+  "cat": "saude",
+  "title": "Covid-19: casos e mortes seguem em queda no Brasil em 2026, informa o Ministério da Saúde",
+  "dek": "Em 2026 foram 118.851 casos de síndrome gripal por covid-19, 68,8% a menos que no mesmo período de 2025; as mortes caíram de 1,4 mil para 437 (-69%). Ressalva: casos leves subiram nas últimas seis semanas em 18 estados, ainda em baixo risco, e o aumento no fim do ano é esperado.",
+  "src": "Agência Gov (via Ministério da Saúde)",
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
+  "date": "2026-11-10"
  },
  "noticias": [
+  {
+   "region": "br",
+   "cat": "pobreza",
+   "title": "Cisterna somada a apoio ao produtor rural amplia emprego e renda no campo, aponta pesquisa",
+   "dek": "Estudo apresentado por pesquisador da UFPE em evento do MDS indica que famílias com cisterna e fomento rural têm mais emprego formal e renda e saem com mais frequência do Bolsa Família. Ressalva: a matéria não traz números nem a publicação do estudo.",
+   "src": "Agência Gov (via MDS)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/combinacao-de-cisterna-e-fomento-rural-amplia-renda-e-emprego-no-campo-aponta-pesquisa",
+   "date": "2026-11-03"
+  },
+  {
+   "region": "br",
+   "cat": "ambiente",
+   "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+   "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
+   "src": "Agência Gov",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+   "date": "2026-11-11"
+  },
   {
    "region": "br",
    "cat": "saude",
