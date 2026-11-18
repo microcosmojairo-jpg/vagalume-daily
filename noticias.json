@@ -1,15 +1,15 @@
 {
- "edicao": "2026-11-17",
- "atualizado_em": "2026-11-17T06:30:00-03:00",
- "aviso": "Hoje não conseguimos abrir as fontes das novas candidatas para conferir, e não publicamos nada sem conferir. Mantivemos as 9 melhores notícias recentes; cada card mostra a data original. Voltamos amanhã com novidades.",
+ "edicao": "2026-11-18",
+ "atualizado_em": "2026-11-18T06:30:00-03:00",
+ "aviso": "Hoje as páginas das fontes novas não abriram para conferirmos, e não publicamos nada sem conferir. Reaproveitamos as 9 melhores notícias recentes; cada card mostra a data original. Voltamos amanhã com novidades.",
  "destaque": {
-  "region": "br",
+  "region": "mundo",
   "cat": "saude",
-  "title": "Covid-19: casos e mortes seguem em queda no Brasil em 2026, informa o Ministério da Saúde",
-  "dek": "Em 2026 foram 118.851 casos de síndrome gripal por covid-19, 68,8% a menos que no mesmo período de 2025; as mortes caíram de 1,4 mil para 437 (-69%). Ressalva: casos leves subiram nas últimas seis semanas em 18 estados, ainda em baixo risco, e o aumento no fim do ano é esperado.",
-  "src": "Agência Gov (via Ministério da Saúde)",
-  "url": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
-  "date": "2026-11-10"
+  "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
+  "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
+  "src": "Organização Mundial da Saúde (OMS)",
+  "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+  "date": "2026-11-12"
  },
  "noticias": [
   {
@@ -50,15 +50,6 @@
   },
   {
    "region": "mundo",
-   "cat": "saude",
-   "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
-   "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
-   "src": "Organização Mundial da Saúde (OMS)",
-   "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
-   "date": "2026-11-12"
-  },
-  {
-   "region": "mundo",
    "cat": "ambiente",
    "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
    "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
@@ -83,6 +74,15 @@
    "src": "Organização Mundial da Saúde (OMS)",
    "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
    "date": "2026-10-30"
+  },
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Covid-19: casos e mortes seguem em queda no Brasil em 2026, informa o Ministério da Saúde",
+   "dek": "Em 2026 foram 118.851 casos de síndrome gripal por covid-19, 68,8% a menos que no mesmo período de 2025; as mortes caíram de 1,4 mil para 437 (-69%). Ressalva: casos leves subiram nas últimas seis semanas em 18 estados, ainda em baixo risco, e o aumento no fim do ano é esperado.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
+   "date": "2026-11-10"
   }
  ]
 }
