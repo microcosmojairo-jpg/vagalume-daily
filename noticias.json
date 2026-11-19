@@ -1,88 +1,88 @@
 {
- "edicao": "2026-11-18",
- "atualizado_em": "2026-11-18T06:30:00-03:00",
- "aviso": "Hoje as páginas das fontes novas não abriram para conferirmos, e não publicamos nada sem conferir. Reaproveitamos as 9 melhores notícias recentes; cada card mostra a data original. Voltamos amanhã com novidades.",
- "destaque": {
-  "region": "mundo",
-  "cat": "saude",
-  "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
-  "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
-  "src": "Organização Mundial da Saúde (OMS)",
-  "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
-  "date": "2026-11-12"
- },
- "noticias": [
-  {
-   "region": "br",
-   "cat": "pobreza",
-   "title": "Cisterna somada a apoio ao produtor rural amplia emprego e renda no campo, aponta pesquisa",
-   "dek": "Estudo apresentado por pesquisador da UFPE em evento do MDS indica que famílias com cisterna e fomento rural têm mais emprego formal e renda e saem com mais frequência do Bolsa Família. Ressalva: a matéria não traz números nem a publicação do estudo.",
-   "src": "Agência Gov (via MDS)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/combinacao-de-cisterna-e-fomento-rural-amplia-renda-e-emprego-no-campo-aponta-pesquisa",
-   "date": "2026-11-03"
+  "edicao": "2026-11-19",
+  "atualizado_em": "2026-11-19T09:00:00-03:00",
+  "aviso": "Hoje conferimos na fonte 3 notícias novas; o restante são as melhores notícias recentes da edição anterior (cada card mostra a data original). Voltamos amanhã com novidades.",
+  "destaque": {
+    "region": "mundo",
+    "cat": "saude",
+    "title": "Eritreia elimina o tracoma, principal causa infecciosa de cegueira no mundo",
+    "dek": "A OMS confirmou que a Eritreia eliminou o tracoma como problema de saúde pública: é o 11º país da África e o 34º do mundo a conseguir. O número de pessoas que precisavam de ações contra a doença caiu de cerca de 1,5 bilhão em 2002 para menos de 100 milhões em 2025. Ainda há cerca de 92 milhões de pessoas em áreas onde a doença persiste, em 29 países. Texto do comunicado da OMS lido na republicação do allAfrica.",
+    "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
+    "url": "https://allafrica.com/stories/202611160817.html",
+    "date": "2026-11-16"
   },
-  {
-   "region": "br",
-   "cat": "ambiente",
-   "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
-   "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
-   "src": "Agência Gov",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
-   "date": "2026-11-11"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "Aldeia Mapuera, no Pará, ganha unidade de saúde indígena construída com tecnologia sustentável",
-   "dek": "Inaugurada em 7 de novembro em Oriximiná (PA), a unidade de 262,94 m² atende mais de 650 indígenas de sete povos, com consultórios, sala de vacina e laboratório. Em menos de uma semana foram 47 atendimentos e 16 crianças vacinadas; os resultados ainda são muito iniciais.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/unidade-basica-de-saude-com-tecnologia-sustentavel-beneficia-indigenas-no-para",
-   "date": "2026-11-13"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "Ministério da Saúde facilita o pedido de teleatendimento em saúde mental no Meu SUS Digital",
-   "dek": "Há menos etapas para pedir atendimento nos programas Acolhe Mais (mulheres em vulnerabilidade) e Não Aposte Sua Saúde (problemas com apostas): ciclo inicial de até 10 sessões por videochamada, sigilosas. O texto não informa prazos de espera nem número de vagas.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-facilita-acesso-a-teleatendimento-de-saude-mental-no-meu-sus-digital",
-   "date": "2026-11-13"
-  },
-  {
-   "region": "mundo",
-   "cat": "ambiente",
-   "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
-   "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
-   "src": "Agência Gov (via COP31)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
-   "date": "2026-11-12"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "SUS passa de 1 milhão de procedimentos por ano no tratamento do câncer de próstata",
-   "dek": "Quimioterapia, radioterapia e cirurgias contra o câncer de próstata subiram de 781,5 mil em 2022 para mais de 1 milhão em 2025, alta de 32,6%. A radioterapia cresceu 44,9%. Ressalva: o dado mostra mais atendimentos, não necessariamente melhores resultados clínicos, e vem do próprio Ministério da Saúde, na campanha Novembro Azul.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
-   "date": "2026-11-12"
-  },
-  {
-   "region": "mundo",
-   "cat": "saude",
-   "title": "Barbados é certificada pela OMS por eliminar a transmissão do HIV de mãe para filho",
-   "dek": "Entre 2022 e 2024 nenhum bebê nascido no país foi infectado pelo HIV durante a gestação ou o parto. Nesse período, 98% das gestantes fizeram pré-natal, 98% foram testadas e 98% das que vivem com HIV receberam tratamento. Ressalva: a OMS lembra que manter a certificação exige investimento contínuo e ampliação dos testes de HIV e sífilis.",
-   "src": "Organização Mundial da Saúde (OMS)",
-   "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
-   "date": "2026-10-30"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "Covid-19: casos e mortes seguem em queda no Brasil em 2026, informa o Ministério da Saúde",
-   "dek": "Em 2026 foram 118.851 casos de síndrome gripal por covid-19, 68,8% a menos que no mesmo período de 2025; as mortes caíram de 1,4 mil para 437 (-69%). Ressalva: casos leves subiram nas últimas seis semanas em 18 estados, ainda em baixo risco, e o aumento no fim do ano é esperado.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
-   "date": "2026-11-10"
-  }
- ]
+  "noticias": [
+    {
+      "region": "br",
+      "cat": "saude",
+      "title": "Tratamento para câncer de pulmão ganha reforços no rol da ANS",
+      "dek": "A ANS aprovou em 11/11 a inclusão do medicamento tepotinibe e do exame de sequenciamento genético (NGS) na cobertura obrigatória dos planos de saúde. A fabricante se comprometeu a reduzir em 20% o preço, com economia estimada de R$ 50 milhões por ano. Atenção: as operadoras só precisam oferecer a partir de 1º de fevereiro de 2027.",
+      "src": "Agência Gov (via ANS)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/tratamento-para-cancer-de-pulmao-ganha-reforcos-no-rol-da-ans",
+      "date": "2026-11-16"
+    },
+    {
+      "region": "br",
+      "cat": "saude",
+      "title": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
+      "dek": "Estados como São Paulo (mais de 500 mil), Rio de Janeiro (350 mil) e Minas Gerais (290 mil) vão receber doses extras. Em 2026, os casos graves de Covid caíram 62% e as mortes, 70% em relação a 2025. As entregas são graduais, conforme a capacidade de cada estado.",
+      "src": "Agência Gov (via Ministério da Saúde)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados",
+      "date": "2026-11-16"
+    },
+    {
+      "region": "mundo",
+      "cat": "saude",
+      "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
+      "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
+      "src": "Organização Mundial da Saúde (OMS)",
+      "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+      "date": "2026-11-12"
+    },
+    {
+      "region": "br",
+      "cat": "pobreza",
+      "title": "Cisterna somada a apoio ao produtor rural amplia emprego e renda no campo, aponta pesquisa",
+      "dek": "Estudo apresentado por pesquisador da UFPE em evento do MDS indica que famílias com cisterna e fomento rural têm mais emprego formal e renda e saem com mais frequência do Bolsa Família. Ressalva: a matéria não traz números nem a publicação do estudo.",
+      "src": "Agência Gov (via MDS)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/combinacao-de-cisterna-e-fomento-rural-amplia-renda-e-emprego-no-campo-aponta-pesquisa",
+      "date": "2026-11-03"
+    },
+    {
+      "region": "br",
+      "cat": "ambiente",
+      "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+      "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
+      "src": "Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+      "date": "2026-11-11"
+    },
+    {
+      "region": "mundo",
+      "cat": "ambiente",
+      "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
+      "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
+      "src": "Agência Gov (via COP31)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
+      "date": "2026-11-12"
+    },
+    {
+      "region": "br",
+      "cat": "saude",
+      "title": "SUS passa de 1 milhão de procedimentos por ano no tratamento do câncer de próstata",
+      "dek": "Quimioterapia, radioterapia e cirurgias contra o câncer de próstata subiram de 781,5 mil em 2022 para mais de 1 milhão em 2025, alta de 32,6%. A radioterapia cresceu 44,9%. Ressalva: o dado mostra mais atendimentos, não necessariamente melhores resultados clínicos, e vem do próprio Ministério da Saúde, na campanha Novembro Azul.",
+      "src": "Agência Gov (via Ministério da Saúde)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
+      "date": "2026-11-12"
+    },
+    {
+      "region": "mundo",
+      "cat": "saude",
+      "title": "Barbados é certificada pela OMS por eliminar a transmissão do HIV de mãe para filho",
+      "dek": "Entre 2022 e 2024 nenhum bebê nascido no país foi infectado pelo HIV durante a gestação ou o parto. Nesse período, 98% das gestantes fizeram pré-natal, 98% foram testadas e 98% das que vivem com HIV receberam tratamento. Ressalva: a OMS lembra que manter a certificação exige investimento contínuo e ampliação dos testes de HIV e sífilis.",
+      "src": "Organização Mundial da Saúde (OMS)",
+      "url": "https://www.who.int/news/item/30-10-2026-barbados-eliminates-mother-to-child-transmission-of-hiv",
+      "date": "2026-10-30"
+    }
+  ]
 }
