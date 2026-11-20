@@ -1,17 +1,26 @@
 {
-  "edicao": "2026-11-19",
-  "atualizado_em": "2026-11-19T09:00:00-03:00",
-  "aviso": "Hoje conferimos na fonte 3 notícias novas; o restante são as melhores notícias recentes da edição anterior (cada card mostra a data original). Voltamos amanhã com novidades.",
+  "edicao": "2026-11-20",
+  "atualizado_em": "2026-11-20T06:40:00-03:00",
+  "aviso": "Hoje não conseguimos abrir as fontes para conferir notícias novas, e só publicamos o que verificamos. Mostramos as melhores da edição anterior (cada card traz a data original). Voltamos amanhã.",
   "destaque": {
-    "region": "mundo",
-    "cat": "saude",
-    "title": "Eritreia elimina o tracoma, principal causa infecciosa de cegueira no mundo",
-    "dek": "A OMS confirmou que a Eritreia eliminou o tracoma como problema de saúde pública: é o 11º país da África e o 34º do mundo a conseguir. O número de pessoas que precisavam de ações contra a doença caiu de cerca de 1,5 bilhão em 2002 para menos de 100 milhões em 2025. Ainda há cerca de 92 milhões de pessoas em áreas onde a doença persiste, em 29 países. Texto do comunicado da OMS lido na republicação do allAfrica.",
-    "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
-    "url": "https://allafrica.com/stories/202611160817.html",
-    "date": "2026-11-16"
+    "region": "br",
+    "cat": "ambiente",
+    "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+    "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
+    "src": "Agência Gov",
+    "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+    "date": "2026-11-11"
   },
   "noticias": [
+    {
+      "region": "mundo",
+      "cat": "saude",
+      "title": "Eritreia elimina o tracoma, principal causa infecciosa de cegueira no mundo",
+      "dek": "A OMS confirmou que a Eritreia eliminou o tracoma como problema de saúde pública: é o 11º país da África e o 34º do mundo a conseguir. O número de pessoas que precisavam de ações contra a doença caiu de cerca de 1,5 bilhão em 2002 para menos de 100 milhões em 2025. Ainda há cerca de 92 milhões de pessoas em áreas onde a doença persiste, em 29 países. Texto do comunicado da OMS lido na republicação do allAfrica.",
+      "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
+      "url": "https://allafrica.com/stories/202611160817.html",
+      "date": "2026-11-16"
+    },
     {
       "region": "br",
       "cat": "saude",
@@ -47,15 +56,6 @@
       "src": "Agência Gov (via MDS)",
       "url": "https://agenciagov.ebc.com.br/noticias/202611/combinacao-de-cisterna-e-fomento-rural-amplia-renda-e-emprego-no-campo-aponta-pesquisa",
       "date": "2026-11-03"
-    },
-    {
-      "region": "br",
-      "cat": "ambiente",
-      "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
-      "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
-      "src": "Agência Gov",
-      "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
-      "date": "2026-11-11"
     },
     {
       "region": "mundo",
