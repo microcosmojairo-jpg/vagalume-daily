@@ -1,17 +1,35 @@
 {
-  "edicao": "2026-11-20",
-  "atualizado_em": "2026-11-20T06:40:00-03:00",
-  "aviso": "Hoje não conseguimos abrir as fontes para conferir notícias novas, e só publicamos o que verificamos. Mostramos as melhores da edição anterior (cada card traz a data original). Voltamos amanhã.",
+  "edicao": "2026-11-21",
+  "atualizado_em": "2026-11-21T06:40:00-03:00",
+  "aviso": "Fim de semana com poucas notícias que conseguimos conferir na fonte: 2 são novas de hoje. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
   "destaque": {
     "region": "br",
-    "cat": "ambiente",
-    "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
-    "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
-    "src": "Agência Gov",
-    "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
-    "date": "2026-11-11"
+    "cat": "saude",
+    "title": "Brasil mantém o status de país livre do sarampo, mesmo com a doença avançando nas Américas",
+    "dek": "Segundo o Ministério da Saúde (via Agência Gov), o Brasil registra 70 casos confirmados em 2026, 99,7% menos que o pico de 21,7 mil em 2019, e distribuiu mais de 16 milhões de doses de vacina aos estados. Ressalva: os casos de 2026 vêm de importação do vírus e há risco de transmissão sustentada; o status não significa zero casos.",
+    "src": "Agência Gov (via Ministério da Saúde)",
+    "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-mantem-eliminacao-do-sarampo-apos-avanco-da-doenca-em-paises-das-americas",
+    "date": "2026-11-17"
   },
   "noticias": [
+    {
+      "region": "br",
+      "cat": "saude",
+      "title": "Força Nacional do SUS completa 15 anos com mais de 170 missões e 10 milhões de pessoas beneficiadas",
+      "dek": "Criada em 2011 após as chuvas na Região Serrana do RJ, a Força Nacional do SUS fez mais de 170 missões, cerca de 80 mil atendimentos diretos e formou cerca de 20 mil pessoas. Ressalva: os 10 milhões são beneficiados indiretamente e os números são do próprio Ministério da Saúde; quatro novas bases regionais ainda são previsão para dezembro.",
+      "src": "Agência Gov (via Ministério da Saúde)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-completa-15-anos-com-mais-de-10-milhoes-de-pessoas-beneficiadas-em-todo-o-brasil",
+      "date": "2026-11-17"
+    },
+    {
+      "region": "br",
+      "cat": "ambiente",
+      "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+      "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
+      "src": "Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+      "date": "2026-11-11"
+    },
     {
       "region": "mundo",
       "cat": "saude",
@@ -28,15 +46,6 @@
       "dek": "A ANS aprovou em 11/11 a inclusão do medicamento tepotinibe e do exame de sequenciamento genético (NGS) na cobertura obrigatória dos planos de saúde. A fabricante se comprometeu a reduzir em 20% o preço, com economia estimada de R$ 50 milhões por ano. Atenção: as operadoras só precisam oferecer a partir de 1º de fevereiro de 2027.",
       "src": "Agência Gov (via ANS)",
       "url": "https://agenciagov.ebc.com.br/noticias/202611/tratamento-para-cancer-de-pulmao-ganha-reforcos-no-rol-da-ans",
-      "date": "2026-11-16"
-    },
-    {
-      "region": "br",
-      "cat": "saude",
-      "title": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
-      "dek": "Estados como São Paulo (mais de 500 mil), Rio de Janeiro (350 mil) e Minas Gerais (290 mil) vão receber doses extras. Em 2026, os casos graves de Covid caíram 62% e as mortes, 70% em relação a 2025. As entregas são graduais, conforme a capacidade de cada estado.",
-      "src": "Agência Gov (via Ministério da Saúde)",
-      "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados",
       "date": "2026-11-16"
     },
     {
