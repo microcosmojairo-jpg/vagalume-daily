@@ -1,17 +1,35 @@
 {
- "edicao": "2026-11-22",
- "atualizado_em": "2026-11-22T08:00:00-03:00",
- "aviso": "Domingo com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
+ "edicao": "2026-11-23",
+ "atualizado_em": "2026-11-23T08:00:00-03:00",
+ "aviso": "Segunda-feira com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
  "destaque": {
   "region": "br",
-  "cat": "pobreza",
-  "title": "Pix completa 6 anos e passa de 1 bilhão de chaves cadastradas",
-  "dek": "Segundo o Banco Central, 154 milhões de pessoas físicas (89% dos adultos) usaram o Pix em outubro de 2026, além de 14 milhões de empresas. Em 2025 foram quase 80 bilhões de transações (+25,7%). Ressalva: os dados são do próprio BC e a matéria não traz a metodologia; novidades como Pix offline ainda são planos.",
-  "src": "Agência Gov (via Banco Central)",
-  "url": "https://agenciagov.ebc.com.br/noticias/202611/pix-celebra-6-anos-como-motor-de-inclusao-e-eficiencia-financeira-em-todo-o-brasil",
-  "date": "2026-11-16"
+  "cat": "infra",
+  "title": "Minha Casa, Minha Vida inicia obras de 2.024 moradias em 12 cidades em duas semanas",
+  "dek": "Entre 1º e 16 de novembro de 2026 começaram as obras de 2.024 moradias da modalidade subsidiada, em 12 cidades de 8 estados; desde 2023 foram 2,7 milhões de contratações pelo programa. Ressalva: são obras iniciadas, não concluídas nem entregues; dados do Ministério das Cidades.",
+  "src": "Agência Gov (via Ministério das Cidades)",
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/minha-casa-minha-vida-inicia-a-construcao-de-mais-2-mil-moradias",
+  "date": "2026-11-19"
  },
  "noticias": [
+  {
+   "region": "br",
+   "cat": "pobreza",
+   "title": "Perdão das dívidas previdenciárias do MEI será automático, sem precisar fazer pedido",
+   "dek": "Pela Lei Complementar 238/2026, dívidas do INSS do MEI vencidas até 13/10/2026 (em regra até agosto) serão perdoadas a partir de 1º/01/2027, com juros e multas. Ressalvas: é preciso pagar o DAS de jan. a jun. de 2027 em dia; ICMS e ISS não são perdoados; valores já pagos não voltam.",
+   "src": "Agência Gov (via Receita Federal)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/perdao-das-dividas-do-mei-sera-automatico-nao-e-preciso-fazer-pedido",
+   "date": "2026-11-16"
+  },
+  {
+   "region": "br",
+   "cat": "pobreza",
+   "title": "Pix completa 6 anos e passa de 1 bilhão de chaves cadastradas",
+   "dek": "Segundo o Banco Central, 154 milhões de pessoas físicas (89% dos adultos) usaram o Pix em outubro de 2026, além de 14 milhões de empresas. Em 2025 foram quase 80 bilhões de transações (+25,7%). Ressalva: os dados são do próprio BC e a matéria não traz a metodologia; novidades como Pix offline ainda são planos.",
+   "src": "Agência Gov (via Banco Central)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/pix-celebra-6-anos-como-motor-de-inclusao-e-eficiencia-financeira-em-todo-o-brasil",
+   "date": "2026-11-16"
+  },
   {
    "region": "mundo",
    "cat": "saude",
@@ -31,13 +49,13 @@
    "date": "2026-11-17"
   },
   {
-   "region": "br",
+   "region": "mundo",
    "cat": "saude",
-   "title": "Força Nacional do SUS completa 15 anos com mais de 170 missões e 10 milhões de pessoas beneficiadas",
-   "dek": "Criada em 2011 após as chuvas na Região Serrana do RJ, a Força Nacional do SUS fez mais de 170 missões, cerca de 80 mil atendimentos diretos e formou cerca de 20 mil pessoas. Ressalva: os 10 milhões são beneficiados indiretamente e os números são do próprio Ministério da Saúde; quatro novas bases regionais ainda são previsão para dezembro.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-completa-15-anos-com-mais-de-10-milhoes-de-pessoas-beneficiadas-em-todo-o-brasil",
-   "date": "2026-11-17"
+   "title": "Eritreia elimina o tracoma, principal causa infecciosa de cegueira no mundo",
+   "dek": "A OMS confirmou que a Eritreia eliminou o tracoma como problema de saúde pública: é o 11º país da África e o 34º do mundo a conseguir. O número de pessoas que precisavam de ações contra a doença caiu de cerca de 1,5 bilhão em 2002 para menos de 100 milhões em 2025. Ainda há cerca de 92 milhões de pessoas em áreas onde a doença persiste, em 29 países. Texto do comunicado da OMS lido na republicação do allAfrica.",
+   "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
+   "url": "https://allafrica.com/stories/202611160817.html",
+   "date": "2026-11-16"
   },
   {
    "region": "br",
@@ -51,11 +69,11 @@
   {
    "region": "mundo",
    "cat": "saude",
-   "title": "Eritreia elimina o tracoma, principal causa infecciosa de cegueira no mundo",
-   "dek": "A OMS confirmou que a Eritreia eliminou o tracoma como problema de saúde pública: é o 11º país da África e o 34º do mundo a conseguir. O número de pessoas que precisavam de ações contra a doença caiu de cerca de 1,5 bilhão em 2002 para menos de 100 milhões em 2025. Ainda há cerca de 92 milhões de pessoas em áreas onde a doença persiste, em 29 países. Texto do comunicado da OMS lido na republicação do allAfrica.",
-   "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
-   "url": "https://allafrica.com/stories/202611160817.html",
-   "date": "2026-11-16"
+   "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
+   "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
+   "src": "Organização Mundial da Saúde (OMS)",
+   "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+   "date": "2026-11-12"
   },
   {
    "region": "br",
@@ -65,33 +83,6 @@
    "src": "Agência Gov (via ANS)",
    "url": "https://agenciagov.ebc.com.br/noticias/202611/tratamento-para-cancer-de-pulmao-ganha-reforcos-no-rol-da-ans",
    "date": "2026-11-16"
-  },
-  {
-   "region": "mundo",
-   "cat": "saude",
-   "title": "Mortes por tuberculose caem 35% desde 2015 e países aumentam o próprio investimento",
-   "dek": "O relatório global da OMS mostra que o mundo atingiu a primeira meta de redução de mortes da estratégia contra a tuberculose, cinco anos depois do planejado. O financiamento nacional subiu 14%, para US$ 5,6 bilhões. Ressalva: em 2025 ainda houve 10,6 milhões de casos e cerca de 1,1 milhão de mortes, e a queda de casos (14%) está longe da meta de 50%.",
-   "src": "Organização Mundial da Saúde (OMS)",
-   "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
-   "date": "2026-11-12"
-  },
-  {
-   "region": "mundo",
-   "cat": "ambiente",
-   "title": "Mais de US$ 480 milhões em doações são anunciados na COP31 para cortar metano",
-   "dek": "Fontes filantrópicas anunciaram novos recursos para reduzir metano e outros gases de efeito estufa que não são CO2, em energia, agricultura e resíduos. O fundo de superpoluentes (CCAC) ganhou mais US$ 25 milhões e o Banco Mundial apoia programas de metano em 45 países. Ressalva: são anúncios de compromisso, ainda sem resultados comprovados.",
-   "src": "Agência Gov (via COP31)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
-   "date": "2026-11-12"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "SUS passa de 1 milhão de procedimentos por ano no tratamento do câncer de próstata",
-   "dek": "Quimioterapia, radioterapia e cirurgias contra o câncer de próstata subiram de 781,5 mil em 2022 para mais de 1 milhão em 2025, alta de 32,6%. A radioterapia cresceu 44,9%. Ressalva: o dado mostra mais atendimentos, não necessariamente melhores resultados clínicos, e vem do próprio Ministério da Saúde, na campanha Novembro Azul.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
-   "date": "2026-11-12"
   }
  ]
 }
