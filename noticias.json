@@ -1,17 +1,35 @@
 {
- "edicao": "2026-11-23",
- "atualizado_em": "2026-11-23T08:00:00-03:00",
- "aviso": "Segunda-feira com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
+ "edicao": "2026-11-24",
+ "atualizado_em": "2026-11-24T06:40:00-03:00",
+ "aviso": "Terça-feira com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
  "destaque": {
   "region": "br",
-  "cat": "infra",
-  "title": "Minha Casa, Minha Vida inicia obras de 2.024 moradias em 12 cidades em duas semanas",
-  "dek": "Entre 1º e 16 de novembro de 2026 começaram as obras de 2.024 moradias da modalidade subsidiada, em 12 cidades de 8 estados; desde 2023 foram 2,7 milhões de contratações pelo programa. Ressalva: são obras iniciadas, não concluídas nem entregues; dados do Ministério das Cidades.",
-  "src": "Agência Gov (via Ministério das Cidades)",
-  "url": "https://agenciagov.ebc.com.br/noticias/202611/minha-casa-minha-vida-inicia-a-construcao-de-mais-2-mil-moradias",
-  "date": "2026-11-19"
+  "cat": "saude",
+  "title": "SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata",
+  "dek": "Cirurgias, quimioterapia e radioterapia contra o câncer de próstata cresceram 32,6% na rede pública entre 2022 e 2025, de 781,5 mil para mais de 1 milhão. Radioterapia subiu 44,9%, quimioterapia 32,4% e cirurgias 28,2%. Ressalva: são procedimentos, não pacientes, e a matéria traz dados do próprio Ministério da Saúde.",
+  "src": "Agência Gov (via Ministério da Saúde)",
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
+  "date": "2026-11-12"
  },
  "noticias": [
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Força Nacional do SUS completa 15 anos com 10 milhões de pessoas beneficiadas no País",
+   "dek": "A Força Nacional do SUS, criada em 2011 após as chuvas na Região Serrana do RJ, soma mais de 170 missões, cerca de 80 mil atendimentos diretos e cerca de 3 mil voluntários. Os 10 milhões são pessoas beneficiadas indiretamente (estimativa do Ministério da Saúde). Quatro novas bases são previstas até dezembro de 2026.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-completa-15-anos-com-mais-de-10-milhoes-de-pessoas-beneficiadas-em-todo-o-brasil",
+   "date": "2026-11-17"
+  },
+  {
+   "region": "br",
+   "cat": "infra",
+   "title": "Minha Casa, Minha Vida inicia obras de 2.024 moradias em 12 cidades em duas semanas",
+   "dek": "Entre 1º e 16 de novembro de 2026 começaram as obras de 2.024 moradias da modalidade subsidiada, em 12 cidades de 8 estados; desde 2023 foram 2,7 milhões de contratações pelo programa. Ressalva: são obras iniciadas, não concluídas nem entregues; dados do Ministério das Cidades.",
+   "src": "Agência Gov (via Ministério das Cidades)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/minha-casa-minha-vida-inicia-a-construcao-de-mais-2-mil-moradias",
+   "date": "2026-11-19"
+  },
   {
    "region": "br",
    "cat": "pobreza",
