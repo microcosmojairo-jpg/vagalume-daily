@@ -1,17 +1,35 @@
 {
- "edicao": "2026-11-24",
- "atualizado_em": "2026-11-24T06:40:00-03:00",
- "aviso": "Terça-feira com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
+ "edicao": "2026-11-25",
+ "atualizado_em": "2026-11-25T06:40:00-03:00",
+ "aviso": "Quarta-feira com poucas notícias que conseguimos conferir na fonte: 3 são novas. As demais são as melhores da edição anterior, com a data original em cada card. Voltamos com edição completa.",
  "destaque": {
   "region": "br",
   "cat": "saude",
-  "title": "SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata",
-  "dek": "Cirurgias, quimioterapia e radioterapia contra o câncer de próstata cresceram 32,6% na rede pública entre 2022 e 2025, de 781,5 mil para mais de 1 milhão. Radioterapia subiu 44,9%, quimioterapia 32,4% e cirurgias 28,2%. Ressalva: são procedimentos, não pacientes, e a matéria traz dados do próprio Ministério da Saúde.",
+  "title": "Saúde destina R$ 200 milhões para maternidades de hospitais filantrópicos",
+  "dek": "Portaria do Ministério da Saúde libera R$ 200 milhões, em parcela única em 2026, para 893 estabelecimentos filantrópicos, com valores de R$ 100 mil a R$ 400 mil conforme o número de partos pelo SUS no ano anterior. Faz parte de um pacote de R$ 1 bi. Ressalvas: dados do próprio ministério, sem avaliação independente; o repasse passa por estados e municípios.",
   "src": "Agência Gov (via Ministério da Saúde)",
-  "url": "https://agenciagov.ebc.com.br/noticias/202611/sus-ultrapassa-1-milhao-de-procedimentos-para-tratamento-do-cancer-de-prostata",
-  "date": "2026-11-12"
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-destina-r-200-milhoes-para-maternidades-de-hospitais-filantropicos",
+  "date": "2026-11-24"
  },
  "noticias": [
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Governo Federal inicia distribuição de 5,5 mil kits para avaliação do desenvolvimento infantil",
+   "dek": "Foram 5.590 kits para unidades básicas de saúde de 91 municípios na primeira etapa, para acompanhar crianças de 0 a 6 anos. Cada kit traz 9 tipos de itens (bolas, cubos, livros, fita métrica) e apoio à Caderneta da Criança. Ressalvas: não há prazo para a segunda etapa nem dados de impacto; é material de apoio, não serviço novo.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-inicia-distribuicao-de-5-5-mil-kits-para-avaliacao-do-desenvolvimento-infantil",
+   "date": "2026-11-23"
+  },
+  {
+   "region": "br",
+   "cat": "ciencia",
+   "title": "Anvisa aprova novo medicamento para tratamento de câncer de mama (Hertuzo)",
+   "dek": "A Anvisa registrou o Hertuzo (pertuzumabe), biossimilar do Perjeta, para câncer de mama HER2-positivo em várias fases do tratamento. Ressalvas: registro sanitário não significa oferta no SUS; a matéria não traz preço, disponibilidade nem dados de eficácia.",
+   "src": "Agência Gov (via Anvisa)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/anvisa-aprova-novo-medicamento-para-tratamento-de-cancer-de-mama",
+   "date": "2026-11-23"
+  },
   {
    "region": "br",
    "cat": "saude",
@@ -20,24 +38,6 @@
    "src": "Agência Gov (via Ministério da Saúde)",
    "url": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-completa-15-anos-com-mais-de-10-milhoes-de-pessoas-beneficiadas-em-todo-o-brasil",
    "date": "2026-11-17"
-  },
-  {
-   "region": "br",
-   "cat": "infra",
-   "title": "Minha Casa, Minha Vida inicia obras de 2.024 moradias em 12 cidades em duas semanas",
-   "dek": "Entre 1º e 16 de novembro de 2026 começaram as obras de 2.024 moradias da modalidade subsidiada, em 12 cidades de 8 estados; desde 2023 foram 2,7 milhões de contratações pelo programa. Ressalva: são obras iniciadas, não concluídas nem entregues; dados do Ministério das Cidades.",
-   "src": "Agência Gov (via Ministério das Cidades)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/minha-casa-minha-vida-inicia-a-construcao-de-mais-2-mil-moradias",
-   "date": "2026-11-19"
-  },
-  {
-   "region": "br",
-   "cat": "pobreza",
-   "title": "Perdão das dívidas previdenciárias do MEI será automático, sem precisar fazer pedido",
-   "dek": "Pela Lei Complementar 238/2026, dívidas do INSS do MEI vencidas até 13/10/2026 (em regra até agosto) serão perdoadas a partir de 1º/01/2027, com juros e multas. Ressalvas: é preciso pagar o DAS de jan. a jun. de 2027 em dia; ICMS e ISS não são perdoados; valores já pagos não voltam.",
-   "src": "Agência Gov (via Receita Federal)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/perdao-das-dividas-do-mei-sera-automatico-nao-e-preciso-fazer-pedido",
-   "date": "2026-11-16"
   },
   {
    "region": "br",
@@ -92,15 +92,6 @@
    "src": "Organização Mundial da Saúde (OMS)",
    "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
    "date": "2026-11-12"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "Tratamento para câncer de pulmão ganha reforços no rol da ANS",
-   "dek": "A ANS aprovou em 11/11 a inclusão do medicamento tepotinibe e do exame de sequenciamento genético (NGS) na cobertura obrigatória dos planos de saúde. A fabricante se comprometeu a reduzir em 20% o preço, com economia estimada de R$ 50 milhões por ano. Atenção: as operadoras só precisam oferecer a partir de 1º de fevereiro de 2027.",
-   "src": "Agência Gov (via ANS)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/tratamento-para-cancer-de-pulmao-ganha-reforcos-no-rol-da-ans",
-   "date": "2026-11-16"
   }
  ]
 }
