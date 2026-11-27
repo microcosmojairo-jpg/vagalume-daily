@@ -1,15 +1,15 @@
 {
- "edicao": "2026-11-26",
- "atualizado_em": "2026-11-26T07:00:00-03:00",
- "aviso": "Quinta-feira com poucas notícias que conseguimos conferir na fonte: 2 são novas. As demais são as melhores das edições anteriores, com a data original em cada card. Voltamos com edição completa.",
+ "edicao": "2026-11-27",
+ "atualizado_em": "2026-11-27T07:00:00-03:00",
+ "aviso": "Sexta-feira com poucas notícias que conseguimos conferir na fonte: 1 é nova. As demais são as melhores das edições anteriores, com a data original em cada card. Voltamos com edição completa.",
  "destaque": {
   "region": "br",
-  "cat": "pobreza",
-  "title": "Brasil terá a primeira redução geral da jornada de trabalho em 38 anos",
-  "dek": "Segundo o Repórter Brasil (TV Brasil), a jornada semanal cai de 44 para 42 horas a partir de 16/12 e, um ano depois, para 40 horas. É a primeira redução geral desde a Constituição de 1988. O ministro Luiz Marinho citou 31 milhões de contratos de 44 horas. Ressalvas: vale para quem tem carteira assinada; a página não detalha fiscalização nem exceções.",
-  "src": "TV Brasil (EBC)",
-  "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/11/brasil-tera-primeira-reducao-geral-da-jornada-em-38-anos",
-  "date": "2026-11-19"
+  "cat": "saude",
+  "title": "Saúde destina R$ 200 milhões para maternidades de hospitais filantrópicos",
+  "dek": "Portaria do Ministério da Saúde libera R$ 200 milhões, em parcela única em 2026, para 893 estabelecimentos filantrópicos, com valores de R$ 100 mil a R$ 400 mil conforme o número de partos pelo SUS no ano anterior. Faz parte de um pacote de R$ 1 bi. Ressalvas: dados do próprio ministério, sem avaliação independente; o repasse passa por estados e municípios.",
+  "src": "Agência Gov (via Ministério da Saúde)",
+  "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-destina-r-200-milhoes-para-maternidades-de-hospitais-filantropicos",
+  "date": "2026-11-24"
  },
  "noticias": [
   {
@@ -20,15 +20,6 @@
    "src": "ScienceDaily (via Northwestern University)",
    "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
    "date": "2026-11-25"
-  },
-  {
-   "region": "br",
-   "cat": "saude",
-   "title": "Saúde destina R$ 200 milhões para maternidades de hospitais filantrópicos",
-   "dek": "Portaria do Ministério da Saúde libera R$ 200 milhões, em parcela única em 2026, para 893 estabelecimentos filantrópicos, com valores de R$ 100 mil a R$ 400 mil conforme o número de partos pelo SUS no ano anterior. Faz parte de um pacote de R$ 1 bi. Ressalvas: dados do próprio ministério, sem avaliação independente; o repasse passa por estados e municípios.",
-   "src": "Agência Gov (via Ministério da Saúde)",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-destina-r-200-milhoes-para-maternidades-de-hospitais-filantropicos",
-   "date": "2026-11-24"
   },
   {
    "region": "br",
@@ -59,11 +50,29 @@
   },
   {
    "region": "br",
+   "cat": "pobreza",
+   "title": "Brasil terá a primeira redução geral da jornada de trabalho em 38 anos",
+   "dek": "Segundo o Repórter Brasil (TV Brasil), a jornada semanal cai de 44 para 42 horas a partir de 16/12 e, um ano depois, para 40 horas. É a primeira redução geral desde a Constituição de 1988. O ministro Luiz Marinho citou 31 milhões de contratos de 44 horas. Ressalvas: vale para quem tem carteira assinada; a página não detalha fiscalização nem exceções.",
+   "src": "TV Brasil (EBC)",
+   "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/11/brasil-tera-primeira-reducao-geral-da-jornada-em-38-anos",
+   "date": "2026-11-19"
+  },
+  {
+   "region": "br",
    "cat": "saude",
    "title": "Brasil mantém o status de país livre do sarampo, mesmo com a doença avançando nas Américas",
    "dek": "Segundo o Ministério da Saúde (via Agência Gov), o Brasil registra 70 casos confirmados em 2026, 99,7% menos que o pico de 21,7 mil em 2019, e distribuiu mais de 16 milhões de doses de vacina aos estados. Ressalva: os casos de 2026 vêm de importação do vírus e há risco de transmissão sustentada; o status não significa zero casos.",
    "src": "Agência Gov (via Ministério da Saúde)",
    "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-mantem-eliminacao-do-sarampo-apos-avanco-da-doenca-em-paises-das-americas",
+   "date": "2026-11-17"
+  },
+  {
+   "region": "br",
+   "cat": "saude",
+   "title": "Força Nacional do SUS completa 15 anos com 10 milhões de pessoas beneficiadas",
+   "dek": "Segundo o Ministério da Saúde (via Agência Gov), a Força Nacional do SUS soma mais de 170 missões, 80 mil atendimentos diretos e cerca de 3 mil voluntários mobilizados desde 2011. Cinco bases regionais funcionam e quatro estão previstas até dezembro de 2026. Ressalvas: os 10 milhões são beneficiados indiretos; os dados são do próprio ministério, sem avaliação independente.",
+   "src": "Agência Gov (via Ministério da Saúde)",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-completa-15-anos-com-mais-de-10-milhoes-de-pessoas-beneficiadas-em-todo-o-brasil",
    "date": "2026-11-17"
   },
   {
@@ -74,15 +83,6 @@
    "src": "Organização Mundial da Saúde (OMS) (via allAfrica)",
    "url": "https://allafrica.com/stories/202611160817.html",
    "date": "2026-11-16"
-  },
-  {
-   "region": "br",
-   "cat": "ambiente",
-   "title": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
-   "dek": "As emissões líquidas caíram de 2,07 para 1,51 bilhão de toneladas de CO₂ equivalente, 41,6% abaixo de 2005. A queda vem sobretudo do menor desmatamento; energia, agropecuária e resíduos cresceram, e 2024 ainda está acima do limite da meta para 2025.",
-   "src": "Agência Gov",
-   "url": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
-   "date": "2026-11-11"
   },
   {
    "region": "mundo",
